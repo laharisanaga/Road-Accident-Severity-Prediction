@@ -60,3 +60,10 @@ Road-Accident-Severity-Prediction/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+
+## Author
+
+**Lahari Sanaga**
+
+B.Tech CSE – Data Science  
+Aspiring Data Analyst
