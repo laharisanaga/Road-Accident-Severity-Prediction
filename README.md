@@ -46,21 +46,21 @@ The project uses a **Random Forest Classifier** for accident severity classifica
 
 ## Project Structure
 
-Road-Accident-Severity-Prediction/
-├── data/
-│   └── indian_road_accident_severity_10000.csv
-├── models/
-├── src/
-│   └── accident_severity_model.py
-├── web/
-│   ├── index.html
-│   ├── scripts.js
-│   └── style.css
-├── README.md
-├── requirements.txt
-└── LICENSE
+    Road-Accident-Severity-Prediction/
+    ├── data/
+    │   └── indian_road_accident_severity_10000.csv
+    ├── models/
+    ├── src/
+    │   └── accident_severity_model.py
+    ├── web/
+    │   ├── index.html
+    │   ├── scripts.js
+    │   └── style.css
+    ├── README.md
+    ├── requirements.txt
+    └── LICENSE
 
-## Author 
+## Author
 
 **Lahari Sanaga**
 
