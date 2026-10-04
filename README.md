@@ -66,4 +66,4 @@ Road-Accident-Severity-Prediction/
 **Lahari Sanaga**
 
 B.Tech - Computer Science & Engineering (Data Science)
-Aspiring data analyst 
+Aspiring data analyst
