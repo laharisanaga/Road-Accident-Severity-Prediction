@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 
 # Load dataset
-data = pd.read_csv("../data/accident_data.csv")
+data = pd.read_csv("../data/indian_road_accident_severity_10000.csv")
 
 # Display basic information
 print("Dataset Shape:", data.shape)
