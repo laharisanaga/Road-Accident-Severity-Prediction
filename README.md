@@ -59,7 +59,7 @@ Road-Accident-Severity-Prediction/
 │   └── style.css
 ├── README.md
 ├── requirements.txt
-└── LICENSE
+└── LICENSE;
 
 ## Author
 
