@@ -46,7 +46,6 @@ The project uses a **Random Forest Classifier** for accident severity classifica
 
 ## Project Structure
 
-```text
 Road-Accident-Severity-Prediction/
 ├── data/
 │   └── indian_road_accident_severity_10000.csv
